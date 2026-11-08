@@ -25,3 +25,7 @@
 | [zcode-remote-app](https://github.com/wjf1/zcode-remote-app) | ZCode 远程控制的第三方原生 Android 客户端（Kotlin + Jetpack Compose） |
 | [workbuddy2api-panel](https://github.com/wjf1/workbuddy2api-panel) | CodeBuddy 账号 → OpenAI 兼容 API 多账号网关，附 Web 管理面板 |
 | [awesome-dsh-plugin](https://github.com/wjf1/awesome-dsh-plugin) | DeepSeek Harness (DSH) 插件精选列表 |
+| [dsh-prompt-enhance](https://github.com/wjf1/dsh-prompt-enhance) | DeepSeek Harness 编辑器的 ✨ 提示词增强按钮：草稿改写为可执行提示词，多级撤销 |
+| [dsh-plugin-usage-analytics](https://github.com/wjf1/dsh-plugin-usage-analytics) | DSH 插件用量与能力看板：本地采集会话事件、聚合为日表、面板/HTTP 查询，默认零出站 |
+| [dsh-portable](https://github.com/wjf1/dsh-portable) | DeepSeek Harness 配置的离线/在线导入导出与迁移：profiles、插件、技能、hooks |
+| [dsh-commandcode](https://github.com/wjf1/dsh-commandcode) | DeepSeek Harness 的 Command Code LLM 提供商插件：模型目录同步、多账户轮换、用量面板 |
